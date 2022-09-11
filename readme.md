@@ -1,11 +1,12 @@
-# Webpack Starter App Boilerplate
+# Webpack App Boilerplate
 
 Frontend environment for building Sass based JavaScript applications
 
 Includes the following features...
 
 - Babel Loader
-- Sass Loader With Dart Sass
+- JQuery
+- Sass Loader
 - HTMLWebpackPlugin
 - WebpackDevServer
 - Asset Resource Loader
